@@ -1,0 +1,30 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated Images
+output*.png
+output *.png
+
+# Generated Export Files
+output.csv
+output.xlsx
+output.json
+
+# Database Files
+*.db
+
+# Generated Cleaned Data
+students_cleaned.csv
+
+# Temporary Files
+*.tmp
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
